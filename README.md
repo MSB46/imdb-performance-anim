@@ -1,6 +1,5 @@
 # Performance Study of Animated Films
-### Demonstration of Tableau and web scraping tools for gathering insights
-For a deeper, more interactive study on the subject, go to the original Tableau dashboard [here](https://public.tableau.com/app/profile/michael.boodoosingh/viz/AnimationFascination/Dashboard1)
+### For a deeper, more interactive study on the subject, go to the original Tableau dashboard [here](https://public.tableau.com/app/profile/michael.boodoosingh/viz/AnimationFascination/Dashboard1)
 
 ## Metrics Discussed
 * **Sales** - The amount of money a movie made in the box-office during its theatrical run.
